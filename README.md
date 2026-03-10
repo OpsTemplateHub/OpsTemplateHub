@@ -1,16 +1,44 @@
-## Hi there 👋
+# OpsTemplateHub
 
-<!--
-**OpsTemplateHub/OpsTemplateHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional spreadsheet templates for IT Operations teams.
 
-Here are some ideas to get you started:
+These templates help teams track incidents, manage escalations, run shift handovers and document root cause analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Designed for:
+• IT Operations teams  
+• NOC teams  
+• DevOps teams  
+• Service Desk teams  
+• Support teams  
+
+---
+
+## Available Templates
+
+• Incident Tracker  
+• Escalation Matrix  
+• Shift Handover Log  
+• Root Cause Analysis Template  
+• Daily Operations Report  
+• Major Incident Report  
+• On-Call Runbook  
+
+---
+
+## Get the Templates
+
+Full templates available here:
+
+Etsy  
+https://etsy.com/shop/OpsTemplateHub
+
+Gumroad  
+https://gumroad.com/opstemplatehub
+
+---
+
+## About OpsTemplateHub
+
+OpsTemplateHub provides simple operational templates for teams that don't want the complexity of tools like Jira or ServiceNow.
+
+The goal is to give teams lightweight spreadsheets they can start using immediately.

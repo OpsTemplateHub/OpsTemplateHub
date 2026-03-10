@@ -14,6 +14,18 @@ Designed for:
 
 ---
 
+## Get the Templates
+
+Full professional templates available here:
+
+Etsy  
+https://etsy.com/shop/OpsTemplateHub
+
+Gumroad  
+https://gumroad.com/opstemplatehub
+
+---
+
 ## Available Templates
 
 • Incident Tracker  
@@ -39,18 +51,6 @@ Track incidents, severity levels, owners and resolution progress.
 Define escalation paths and responsible teams for operational incidents.
 
 ![Escalation Matrix](Escalation Matrix.PNG)
-
----
-
-## Get the Templates
-
-Full templates available here:
-
-Etsy  
-https://etsy.com/shop/OpsTemplateHub
-
-Gumroad  
-https://gumroad.com/opstemplatehub
 
 ---
 
